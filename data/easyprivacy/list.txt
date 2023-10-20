@@ -8632,6 +8632,7 @@ kurazb.prisjakt.no
 kux5.raileurope.com
 kvt5.blesscollectionhotels.com
 kwalnc.vans.co.kr
+kwgs.letudiant.fr
 kwsjy9.oui.sncf
 kwvbhj.jcpenney.com
 kwwvxn.uniqlo.com
@@ -11375,6 +11376,7 @@ nptkpt.vangraaf.com
 nqcbgz.cocopanda.se
 nqyuel589fq5.esgrounding.com
 nr-events.taboola.com
+nr.static.mmcdn.com
 nra.locktonaffinity.net
 nrg.red-by-sfr.fr
 ns.access-online.com.au
@@ -13829,6 +13831,7 @@ seraphichorizon.com
 serenecascade.com
 serioussuit.com
 serpentshampoo.com
+serv.letudiant.fr
 serv1swork.com
 servcliente.marathon-sports-ec.com
 server.japanbyrivercruise.com
@@ -17514,6 +17517,7 @@ sysmon.kakaku.com
 systemizecoat.com
 szakms.bygghemma.se
 szkbyo.zkai.co.jp
+szrpr.raen.com
 sztpmc.branshes.com
 t-pan.triodos.com
 t-test.esvdigital.com
@@ -19968,6 +19972,7 @@ trickycelery.com
 triconah.actonservice.com
 triggers.wfxtriggers.com
 triplestat.online
+triplewhale-pixel.web.app
 tritebadge.com
 triton.companyegg.com
 triumph.actonservice.com
