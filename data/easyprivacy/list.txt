@@ -4128,7 +4128,6 @@ cdn-channels-pixel.ex.co
 cdn-rum.ngenix.net
 cdn.arcstudiopro.com
 cdn.net.elogia.net
-cdn.usefathom.com
 cdn1.skrill.com
 cdn7.baunetz.de
 cdnhst.xyz
@@ -12882,6 +12881,7 @@ rnffgv.wemakeprice.com
 rnnstu.rentbeforeowning.com
 rnybul.gismeteo.kz
 rnybul.gismeteo.lv
+ro.aiwan4399.com
 robotflowermobile.com
 robustbelieve.com
 rochelle.wantsext.me
@@ -18134,6 +18134,7 @@ tiredthroat.com
 tiresomethunder.com
 titomacia.net.anwalt.de
 tittendestages.net.anwalt.de
+tj.img4399.com
 tjyrup.templeandwebster.com.au
 tk.abt.com
 tk.agrizone.net
