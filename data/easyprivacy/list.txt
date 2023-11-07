@@ -4460,6 +4460,7 @@ collect.thunder-io.com
 collect.usefathom.com
 collections.equifax.com
 collector-api.99designs.com
+collector-api.frspecifics.com
 collector-px0py5pczn.octopart.com
 collector-soompi.viki.io
 collector-videoplayer.5centscdn.net
@@ -9439,6 +9440,7 @@ log.codemarketing.cloud
 log.cognex.com
 log.cookieyes.com
 log.cpex.cz
+log.dance
 log.dpa.com
 log.ecgh.dk
 log.edidomus.it
@@ -11207,6 +11209,7 @@ n.netquote.com
 n0909.com
 n26-trusted.n26.com
 n4kb43cl2bsw.creatordrop.com
+na.groupondata.com
 naanalle.pl
 nadelle.wantsext.me
 nanostats.nanopress.it
