@@ -2636,6 +2636,7 @@ analytics.cookiefirst.dev
 analytics.crowdkeep.com
 analytics.cycleworld.com
 analytics.daasrv.net
+analytics.data.visenze.com
 analytics.designspiration.com
 analytics.deutscher-apotheker-verlag.de
 analytics.dev.htmedia.in
@@ -4212,6 +4213,7 @@ ciszhp.finanzfrage.net
 citizenship.quantresear.ch
 cityrobotflower.com
 ck.connatix.com
+ck123.io
 ckies.net
 ckozwx.n11.com
 cksfgh.jaycar.com.au
@@ -11590,7 +11592,6 @@ open.theinnercircle.co
 open.ticketbro.com
 open.uzitapp.com
 open.wynk.in
-openfpcdn.io
 openshop.oshp.io
 operationchicken.com
 oph7o.montecarlosbm-corporate.com
