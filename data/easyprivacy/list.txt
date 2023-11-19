@@ -11504,6 +11504,7 @@ oj.brothercloud.com
 ojm4.palladiumhotelgroup.com
 ojvxtz.junonline.jp
 oktagv.immobilienscout24.at
+oldfashionedoffer.com
 olroyk.ardene.com
 olytics.omeda.com
 olziko.maxmara.com
@@ -18031,6 +18032,7 @@ telemetry.adobe.io
 telemetry.algolia.com
 telemetry.api.playstation.com
 telemetry.firez.one
+telemetry.goodlifefitness.com
 telemetry.jivosite.com
 telemetry.phenixrts.com
 telemetry.reembed.com
