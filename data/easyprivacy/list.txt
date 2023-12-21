@@ -2564,6 +2564,7 @@ analytic.surfline.com
 analytic20.detik.com
 analyticcdn.globalmailer.com
 analytics-1.cavai.com
+analytics-api.klickly.com
 analytics-api.samsunghealthcn.com
 analytics-batch.blitz.gg
 analytics-beacon.p.uliza.jp
@@ -4414,6 +4415,7 @@ cmp.nouvelobs.com
 cmp.tech426.com
 cmp.tek.no
 cmp2.channelpartner.de
+cmpworker.dotesports.com
 cms.hardloopaanbiedingen.nl
 cmttvv.bonprix.se
 cn-go.experian.com
@@ -7652,6 +7654,7 @@ hbaazk.bukalapak.com
 hbahrd.yogibo.jp
 hbbtv-track.prosieben.de
 hbbtv-track.prosiebensat1puls4.com
+hbiq.net
 hbo5.concours-pass.com
 hbx.df-srv.de
 hby7.destinia.it
@@ -13520,6 +13523,7 @@ scarefowl.com
 scarfsmash.com
 scarfthought.com
 scatteredheat.com
+scatteredquiver.com
 scatteredstream.com
 schlesingerassociates.actonservice.com
 sci.digitalinsight.com
