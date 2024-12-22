@@ -2445,8 +2445,10 @@ stb-media.xyz
 stc.tools
 stcverify.com
 steam.communityart-work.com
+steam.iplay.fit
 steam.zssjsq.com
 steamcommunitylog.chez.com
+steamcommunityprofile.com
 steamcommunlyt.com
 steamcomuniry.com
 steamcomunutty.com
@@ -2566,6 +2568,7 @@ telegramkd.com
 telegramkp.com
 telegramkv.com
 telegramm.site
+telegramtn.com
 telegremapp.me
 telergaom.top
 telergctm.vip
