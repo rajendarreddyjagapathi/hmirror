@@ -3001,6 +3001,7 @@ advice.carnivalday.click
 advice.catchfoot.click
 advice.falldown.click
 advice.fetely.click
+advice.hikehub.click
 advice.losebalance.click
 advice.openinvestmentapp.com
 advice.runlightly.click
@@ -12269,6 +12270,7 @@ correctionfmail.com
 corrective.fiestahq.click
 corrective.gambolapp.click
 corrective.getcruise.click
+corrective.gethike.click
 corrective.hikehub.click
 corrective.makeanerror.click
 corrective.opengambol.click
@@ -17462,6 +17464,7 @@ ezhj.com
 ezimail.com
 ezip.site
 ezmail.top
+ezmarket.my.id
 ezmspcloud.com
 ezodmail.com
 ezowerth.ga
@@ -20172,6 +20175,7 @@ getgoodfiles.site
 gethelpnyc.com
 gethelps.click
 gethelps.sbs
+gethike.click
 gethlp.site
 getholiday.click
 geticeusa.com
@@ -28084,6 +28088,7 @@ letstalk.friskapp.click
 letstalk.makeablunder.click
 letstalk.scamperly.click
 letstalk.thecaper.click
+letstalk.thehike.click
 letstalk.vacly.click
 letstestsa.info
 letter.com
@@ -37607,6 +37612,7 @@ post.org.pl
 post.oversightly.com
 post.religiousfestival.click
 post.teamshq.click
+post.thehike.click
 post.theroofings.com
 post.turnonlabs.click
 post.usehike.click
@@ -37646,6 +37652,7 @@ potasf.com
 potatoheaded.ga
 potblog.com
 potekla-v-17.info
+potenss.academy
 potmail.store
 pottattemail.xyz
 potthoff52148.coolyarddecorations.com
@@ -38853,6 +38860,7 @@ quick.switchon.click
 quickanswer.beachtourism.click
 quickanswer.cruisely.click
 quickanswer.festivalday.click
+quickanswer.usehike.click
 quickemail.info
 quickemail.shop
 quickemail.top
@@ -43369,10 +43377,12 @@ solution.turnonhub.click
 solutions.fliplabs.click
 solutions.getcruise.click
 solutions.getflip.click
+solutions.gethike.click
 solutions.meetflip.click
 solutions.switchon.click
 solutions.theflip.click
 solutions.triggerly.click
+solutions.usehike.click
 solutions.vacayly.click
 solutionsbyweb.com
 solutionsmanual.us
@@ -44393,6 +44403,7 @@ suits2u.com
 suizafoods.com
 sujao.club
 sukabokep.tech
+sukadia.my.id
 sukasukasuka.me
 sukatobrud.cloud
 sukcam.org
@@ -45926,6 +45937,7 @@ thehealingstartshere.com
 thehelps.click
 thehelps.sbs
 thehiddenflow.com
+thehike.click
 thehonestfire.org
 thehostbase.com
 thehubporno.com
