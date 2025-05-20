@@ -33638,6 +33638,7 @@ stats.photographer.com.au
 stats.pinoymusicstation.com
 stats.piplette.co
 stats.pitstone.co.uk
+stats.pixeldrain.com
 stats.plainsending.com
 stats.planxti.com
 stats.poesieundgenuss.com
@@ -39847,6 +39848,7 @@ we.kurly.com
 wealth.informabi.com
 wealthcarecapital.actonservice.com
 weare.ballymoregroup.com
+web-ivcbrasil-tag.s3.us-west-2.amazonaws.com
 web-perf.booking.com
 web-trace.ksapisrv.com
 web-tracker.smsbump.com
