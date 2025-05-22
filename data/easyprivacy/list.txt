@@ -13749,7 +13749,6 @@ geoip.hmageo.com
 geoip.ifunny.co
 geoip.instiengage.com
 geoip.nekudo.com
-geoip.radio-canada.ca
 geolocation.forbes.com
 geolocation.outreach.com
 geonetric.actonservice.com
@@ -24976,6 +24975,7 @@ pixel.mtrcs.samba.tv
 pixel.newscred.com
 pixel.nine.com.au
 pixel.poptok.com
+pixel.pub.lilyai.net
 pixel.redgifs.com
 pixel.roymorgan.com
 pixel.s3xified.com
