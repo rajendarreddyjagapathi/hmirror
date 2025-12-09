@@ -233,6 +233,7 @@ asiaxdate.com
 askfollow.us
 askme4date.com
 assistancesosh.wixsite.com
+aster-dex.run
 at-t-admin.daftpage.com
 at.colony-on.id
 at0micwallets.com
@@ -884,6 +885,8 @@ ff-exchange.shop
 ff-exchange.space
 ff-exchange.top
 ff-exchange.vip
+ff-excharge.cyou
+ff-excharge.icu
 ff-info-online.com
 ff-io.to
 ffr548tyfhe.jp
@@ -1149,6 +1152,7 @@ heartmatch.jp
 heattercer.com
 heed-mvor.com
 helplive-ledger.com
+helpwithledgerdevice.com
 hentaiplaytime.com
 herebyintentionally.com
 hergunavantaj.com.tr
@@ -1274,9 +1278,11 @@ instagram-nextjs-three.vercel.app
 instagram.irancell-10g-free.rf.gd
 instant-job-apply.com
 instant-job-appply.com
+insurebitbox.com
 interbank.mobi
 interface-git-parallel-cypress-uniswap.vercel.app
 internetspeedtracker.com
+io-kly.com
 io-sol.vip
 io-swap.net
 ioapp.sbs
@@ -1448,6 +1454,7 @@ koundayori.com
 kounnomichishirube.net
 kousenkan.com
 koy.jp
+kraken-exchange.com
 kryptoswap.my
 ksds.jp
 ksj.d7jyu2dnjykvx.amplifyapp.com
@@ -1483,6 +1490,7 @@ ledger-apparaat.com
 ledgerr.us
 legamee.jp
 legder.at
+legderhealth.com
 lererikal.org
 lesivs.com
 letmessagenow.com
@@ -1861,6 +1869,7 @@ nice.par-even.com
 nicking-unding.com
 nilousplaypen.com
 nitr5eur6fjhtsw.jpn.com
+nodego.network
 nogruptexn.com
 noi9va4ewa.com
 nokiseitjnemnew.jp
@@ -2032,6 +2041,7 @@ pfunding-01.com
 pgk.te1p-a4ir.com
 phantomcorestudios.net
 phm-2g.com
+phnto.com
 piasukai.xyz
 pichk.myqcloud.com
 pin673.cyou
@@ -2243,6 +2253,7 @@ saro-nelmng.com
 sasktel.mmspos.com
 sbfw.work
 sbi.bar-diningjaycowe.com
+scanledgerapi.com
 scanlonchiro.com
 scene7goal3.work
 schedule-interview.com
@@ -2639,6 +2650,8 @@ trazore-suites.framer.ai
 trckams.com
 trckkkk.com
 trezor.la
+trezordevices.io
+trezordevicesupport.com
 trezorsuite.wasmer.app
 trezzrsuite.framer.ai
 trfcbooost.com
@@ -2939,10 +2952,13 @@ yupoo-dhgate.ru
 yupoo-husky.ru
 yupoo-megamillions.ru
 yupoo-powerball.ru
+yupoo.biz
 yupoo.site
 yupooclothes.com
+yupooclothing.com
 yupoofrance.ru
 yupoonetherlands.ru
+yupooshoes.org
 yupoosunglasses.ru
 yupooz.com
 yuriyuri-yurayura.com
