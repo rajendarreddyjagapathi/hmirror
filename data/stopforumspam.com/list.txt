@@ -6320,6 +6320,7 @@ assist.termtimely.click
 assist.thecruise.click
 assist.thegambol.click
 assist.thetrip.click
+assist.thewisetransfer.click
 assist.timetraveller.click
 assist.travelocityflights.click
 assist.travelwifi.click
@@ -14739,6 +14740,7 @@ corrective.gambolapp.click
 corrective.getcruise.click
 corrective.getgambol.click
 corrective.gethike.click
+corrective.getwisetransfer.click
 corrective.hikehub.click
 corrective.makeanerror.click
 corrective.opengambol.click
@@ -19956,6 +19958,7 @@ emailus.gethike.click
 emailus.getwisetransfer.click
 emailus.meettravel.click
 emailus.ninjatransfers.click
+emailus.thebillieholiday.click
 emailus.theflip.click
 emailus.thegambol.click
 emailus.tripster.click
@@ -31121,6 +31124,7 @@ janics.com
 janjiabdurrohim.biz
 janki.tech
 janklife.com
+jankolus.biz.id
 jankusmirek.com
 jankzone.com
 janmail.org
@@ -39808,6 +39812,7 @@ mplt.one
 mplusmail.com
 mpmail.store
 mpo4d.info
+mpocu.hilmipremindo.com
 mposhop.com
 mpovip.com
 mprj.com
@@ -43350,6 +43355,7 @@ only.blatnet.com
 only.hammerhandz.com
 only.marksypark.com
 onlyblood.com
+onlymarlon.my.id
 onlys.site
 onlysopi.me
 onlyu.link
@@ -43466,6 +43472,7 @@ opayq.com
 opaywallet.info
 opclanpost.com
 opdf.com
+opelkun.online
 opelmail.com
 opemails.com
 openaimail.tech
@@ -48053,6 +48060,7 @@ quickanswer.cruisely.click
 quickanswer.festivalday.click
 quickanswer.happyholidays.click
 quickanswer.hikelabs.click
+quickanswer.hotelpost.click
 quickanswer.jeannetripplehorn.click
 quickanswer.quickreply.click
 quickanswer.theholiday.click
