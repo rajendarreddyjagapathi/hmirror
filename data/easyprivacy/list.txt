@@ -3977,7 +3977,6 @@ aakashapp.byjus.com
 aaktao.entel.cl
 aamcompany.actonservice.com
 aametrics.aktia.fi
-aamt.msnbc.com
 aamt.nbcnews.com
 aamt.newsapp.telemundo.com
 aamt.today.com
@@ -5083,6 +5082,7 @@ analytics-beacon.p.uliza.jp
 analytics-cf.bigcrunch.com
 analytics-cms.whitebeard.me
 analytics-coletor-site.ojc.com.br
+analytics-collect.karakuri.ai
 analytics-consent-manager-v2-prod.azureedge.net
 analytics-dataplane.invideo.io
 analytics-fe.digital-cloud-prem.medallia.com
@@ -11542,6 +11542,7 @@ e.nicklauschildrens.org
 e.pomonaelectronics.com
 e.quizlet.com
 e.replacementdevicelawsuit.com
+e.revenue.cat
 e.shop.app
 e.synchronybank.com
 e.unchealthcare.org
@@ -15087,6 +15088,7 @@ hesprh.sony.jp
 heuida.shopafrm.com
 hevqaz.submarino.com.br
 heyaxr.fashiondays.bg
+heycomputers.com
 hf.forevernetworks.com
 hfc195b.com
 hfmogh.piatradesign.ro
@@ -19667,6 +19669,7 @@ maddeningpowder.com
 madebyintent.com
 madisoncres.actonservice.com
 madlysuccessful.com
+madoverrice.com
 madrid.report.botm.transparentedge.io
 maeketing.net.gafas.es
 mafiahairdresser.actonservice.com
