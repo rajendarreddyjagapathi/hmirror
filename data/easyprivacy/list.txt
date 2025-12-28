@@ -4936,6 +4936,7 @@ alliantdata.actonservice.com
 alliedfundingcorp.actonservice.com
 allinsurance.allinsure.ca
 alloutdubstep.com
+alloy-web.zvuk.com
 allreach.actonservice.com
 allrisks.actonservice.com
 allstarfg.actonservice.com
@@ -6344,6 +6345,7 @@ app.pally.live
 app.pandasuite.io
 app.panomoments.com
 app.partner.fisglobal.com
+app.partnerboost.com
 app.pawsket.com
 app.payments-response.americanexpress.co.uk
 app.payments.53.com
@@ -17265,6 +17267,7 @@ ish.tumedia.no
 ishainsight.actonservice.com
 isharemetric.rediff.com
 isjoui.cainz.com
+islandssouth.com
 islandwebhelp.com
 isoplexis.actonservice.com
 isovav.akomeya.jp
@@ -18065,6 +18068,7 @@ law.bppeloqua.com
 lawyers.rigbycooke.com.au
 layeredinsight.actonservice.com
 lazychord.com
+lazyexplore.com
 lb.billing01.email-allstate.com
 lb.marketing01.email-allstate.com
 lb.quote01.email-allstate.com
@@ -35232,7 +35236,6 @@ t.vibe.co
 t.villanova.com
 t.virginiasports.com
 t.voyages-sncf.com
-t.vrbo.io
 t.vucommodores.com
 t.wayfair.ca
 t.wayfair.co.uk
@@ -38510,6 +38513,7 @@ tradeshow.edm.globalsources.com
 tradeshows.aem.org
 tradetooth.com
 traffic.acwebconnecting.com
+traffic.askrella.de
 traffic.hostedstatus.page
 traffic.prod.cobaltgroup.com
 traffic.shareaholic.com
@@ -38576,6 +38580,7 @@ trck.bdi-services.de
 trck.comms.watlow.com
 trck.coomeet.com
 trck.copeland.com
+trck.digiteka.com
 trck.e.atradius.com
 trck.el.supremapoker.com.br
 trck.employerservices.experian.com
@@ -39268,10 +39273,7 @@ ultravalid.com
 ultund.misterspex.nl
 ulutlv.esprit.fr
 um.contentstudio.io
-umami.aigenerations.net
-umami.askrella.de
 umami.flixer.su
-umami.heroku.uk
 umami.spencerdevs.xyz
 umami.vidfast.pro
 umami.wakarimasen.moe
