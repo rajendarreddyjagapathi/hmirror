@@ -10751,6 +10751,7 @@ dd.selogerneuf.com
 dd.viator.com
 dd6zx4ibq538k.cloudfront.net
 ddioce.wolverine.com
+ddl.alma.iltalehti.fi
 ddlbr.timesclub.co
 ddlcvm.clas.style
 ddmfrg.modivo.bg
@@ -28644,7 +28645,6 @@ service.bechtle.com
 service.hcob-bank.de
 service.techzine.eu
 service.trustpid.com
-service.utiq.com
 service.vrp.com
 serviceo.comcast.net
 serviceo.xfinity.com
