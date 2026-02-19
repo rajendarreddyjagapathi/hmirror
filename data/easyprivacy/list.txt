@@ -13059,6 +13059,7 @@ events.yourcx.io
 events2.www.edenfantasys.com
 eventsink.api.redbee.live
 eventsmall.com
+eventsourcing.ms.harmo.me
 eventsproxy.gargantuan.futureplc.com
 eventstream.dodopizza.com
 everesttech.net
@@ -19200,6 +19201,7 @@ live.techit.co.il
 livecounter.theyosh.nl
 livelumber.com
 livelylaugh.com
+livesearch-metrics.magento-ds.com
 livestats.kaltura.com
 livestats.matrix.it
 liveviewer.ez.no
