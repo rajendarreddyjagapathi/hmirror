@@ -762,6 +762,7 @@ ee-network.web.app
 ee-payment-issue.web.app
 ee-payment-method-issue.firebaseapp.com
 ee-pending-payment.firebaseapp.com
+ee-web-youdao.com.cn
 egwj-ossi.com
 eharmonysingle.online
 eight85.com
@@ -2690,6 +2691,7 @@ tradestrategy.substack.com
 trafempire.com
 traffic-go.com
 trafficjunction.com
+translate-youdao.com.cn
 tranyasy.com.cn
 trastwallet.co.com
 trava-dapps.pages.dev
@@ -2988,6 +2990,7 @@ yoitoki.jp
 yoloo-jp.com
 yoloo-official.zendesk.com
 you4love.jp
+youdaoi.com
 youku.earth
 youku.tv
 youkuhonor.com
