@@ -8602,6 +8602,7 @@ ciszhp.gesundheitsfrage.net
 ciszhp.motorradfrage.net
 citizensclimate.actonservice.com
 citizenship.quantresear.ch
+citydeal.net
 cityrobotflower.com
 cizzvi.beldona.com
 cjbdme.conquer.org
@@ -8641,6 +8642,7 @@ cleanservices.actonservice.com
 clear.wallapop.com
 clearbitscripts.com
 clearbrands.actonservice.com
+clearclips.com
 clerks.doccheck.com
 clevertapsendgrid.branch.rocks
 clgserv.pro
@@ -26466,6 +26468,7 @@ re.stjude.org
 reach-id.orbit.tm-awx.com
 reach.ironmountain.com
 reach.terumo-bct.com
+reachhumans.com
 react-admin-telemetry.marmelab.com
 reactjspdf.com
 read.lightreading.com
