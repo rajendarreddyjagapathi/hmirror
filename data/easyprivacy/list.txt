@@ -11669,6 +11669,7 @@ e.unchealthcare.org
 e.usesneakpeek.com
 e.vcty.co
 e.viously.com
+e.zg-api.com
 e035.pandasuite.io
 e045f561.b-cdn.net
 e10.verticurl.com
@@ -41933,6 +41934,7 @@ wzzhvn.hammer.de
 x.allabout.co.jp
 x.babe.today
 x.bloggurat.net
+x.designboom.com
 x.disq.us
 x.gldn.io
 x.timesunion.com
