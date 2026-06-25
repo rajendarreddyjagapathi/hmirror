@@ -1357,6 +1357,7 @@ layer-pj.com
 lbg-calcs.vercel.app
 lcskincarecenter.com
 ldgerlive.us
+ledger-lives-desktop.io
 ledger-wallet.gitlab.io
 ledgerapp.created.app
 ledgerr.us
