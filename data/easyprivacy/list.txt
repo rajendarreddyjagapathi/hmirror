@@ -13791,7 +13791,6 @@ fpjscdn.net
 fpptmv.mrmarvis.co.uk
 fpssl-monitor-dal.omniture.com
 fpt.inxinternational.com
-fpt.microsoft.com
 fptls.com
 fptls2.com
 fptls3.com
@@ -22023,6 +22022,7 @@ metric.wilsonelectronics.com
 metric.worldcat.org
 metric.yardhouse.com
 metricas.agzero.com.br
+metricfresh.com
 metrics-a.wbx2.com
 metrics-api.librato.com
 metrics-broker.prod.p.tf1.fr
@@ -25310,6 +25310,7 @@ partnersuccess.cisco.com
 partnersuccessmetrics.cisco.com
 partnerwith.us.streetbond.com
 partplanes.com
+partycharge.com
 passivepolo.com
 passwordbyte.com
 pastoralroad.com
@@ -32391,6 +32392,7 @@ snoresmile.com
 snowflake.qq.com
 snowman.odencat.com
 snowmentor.com
+snowpeaksoftware.com
 snowplowjs.darwin.cx
 snprxx.wwfmarket.com
 snptrk.com
@@ -32441,6 +32443,7 @@ solidscape.actonservice.com
 solidsub.com
 solmax.actonservice.com
 solosduetstrios.com
+solsticeblack.com
 solucionesreales.americanexpress.es
 solution.agc-chemicals.com
 solution.resonac.com
@@ -32759,6 +32762,7 @@ sonar6.fzih1-1.fna.fbcdn.net.iberostar.com
 sonar6.xy.fbcdn.net.iberostar.com
 soneticscorp.actonservice.com
 songsterritory.com
+sonicsessions.net
 soothingglade.com
 sophisticatedstove.com
 soptimize.southwest.com
