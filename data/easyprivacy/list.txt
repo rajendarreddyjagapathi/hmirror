@@ -5147,6 +5147,7 @@ analytics.adliners.de
 analytics.adobe.io
 analytics.adobe.ly
 analytics.adultswim.co.uk
+analytics.afirstsoft.cn
 analytics.agenedia.com
 analytics.agoda.com
 analytics.ahrefs.dev
