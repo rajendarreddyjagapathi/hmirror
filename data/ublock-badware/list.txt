@@ -467,6 +467,7 @@ clonezilla.fr
 clonezilla.it
 cloud.edgerapidcdn.com
 cloudfenceai.com
+cloudflare-check.net
 cloudmax.jp
 clover-seven.com
 club-gagnant.online
