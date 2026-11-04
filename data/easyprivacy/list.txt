@@ -10842,6 +10842,7 @@ data1.virginmobile.ca
 data1.virginplus.ca
 data2.gosquared.com
 datacollector-dra.dt.hicloud.com
+dataconsumed.com
 datadog-service.mvfglobal.com
 datadome.maisonsdumonde.com
 datafiletechnologies.actonservice.com
@@ -19827,6 +19828,7 @@ logtake.weidian.com
 logx-experimentation.iherb.com
 logx.optimizely.com
 lokalwerben.t-online.de
+loki-ingest.fox.com
 lonelyflavor.com
 longingtrees.com
 longloops.com
@@ -24489,6 +24491,7 @@ ni8.lafuma.com
 niblewren.co
 nicefollows.com
 nicehuh.com
+nicemenswear.com
 nid.mansionglobal.com
 nid.thesun.co.uk
 nid.thetimes.com
@@ -24785,6 +24788,7 @@ obhnrw.furniturebox.se
 obhxvb.tmktools.ru
 objecthero.com
 objectpartners.actonservice.com
+objsoftware.com
 oblivionfleet.com
 obnrap.neimanmarcus.com
 obooom.robinmaybag.com
@@ -24976,6 +24980,7 @@ omgthink.com
 omgup.didiglobal.com
 omgup.xiaojukeji.com
 omgup1.xiaojukeji.com
+ominousmusic.com
 omjtca.emlakjet.com
 omn.americanexpress.com
 omn.costumesupercenter.com
@@ -25246,6 +25251,7 @@ open.wynk.in
 openshop.m-shop.me
 operationchicken.com
 operationnail.com
+operawise.com
 oph7o.montecarlosbm-corporate.com
 ophan.theguardian.com
 opim.pixmania.com
@@ -26413,6 +26419,7 @@ procollecting.com
 procroanalytics.com
 procurement.cipscomms.org
 prod-events.nykaa.com
+prod-foxkit.kts.fox
 prod.ew.srp.navigacloud.com
 prod.fennec.atp.fox
 prod.nitrosniffer.ottogroup.io
