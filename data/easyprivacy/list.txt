@@ -11245,6 +11245,7 @@ dialogue.nl.mazda.be
 diamages.carte-gr.total.fr
 diboji.class101.net
 dicecandies.com
+dicezing.com
 didzrr.nutraholic.com
 difficultfog.com
 dig.lianjia.com
@@ -15740,7 +15741,6 @@ hopeful.coh.org
 horacemann.actonservice.com
 horizon-track.globo.com
 horizon.globo.com
-horizoneurope.ukri.org
 horizononline.actonservice.com
 hospitablehall.com
 hospitablehat.com
@@ -18047,6 +18047,7 @@ jrucbb.guestreservations.com
 jrxrit.europcar.de
 jrzgcz.ciociariaoggi.it
 jrzgcz.latinaoggi.eu
+js-error-tracer-api.cafe24.com
 js.verisoul.ai
 jscoinminer.com
 jshkyh.29cm.co.kr
@@ -22976,6 +22977,7 @@ metrics.jungheinrich-profishop.co.uk
 metrics.kadcyla.com
 metrics.kaercher.com
 metrics.kao.com
+metrics.kapa.ai
 metrics.kawai-juku.ac.jp
 metrics.kayosports.com.au
 metrics.kempinski.com
@@ -25698,6 +25700,7 @@ pawsnug.com
 pawsplus.actonservice.com
 pay.truemoney.me
 paydashboard.actonservice.com
+payiris.com
 payments.acutx.org
 payments.americanexpress.co.uk
 paymentslink.dropp.cc
@@ -25762,6 +25765,7 @@ pear.ca-eko-globetrotter.fr
 peards.zevvle.com
 pearpouch.com
 peatfarming.com
+pedaldudes.com
 pedropanther.com
 peeringhost.net
 pegasus.unifygroup.com
