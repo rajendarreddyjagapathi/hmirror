@@ -1291,6 +1291,7 @@ grpcurl.com
 grupocgcr.com
 gruposabar.com
 gspo.jp
+gtagrok.com
 gtex3.com
 gtir5die6sutngr.jpn.com
 gtm-tools.xyz
@@ -1772,7 +1773,9 @@ lucky-letter.com
 lucky-star8.com
 luckygifthk.com
 luckys-garden.com
+ludashisafe.com
 luhxepremiumbags.com
+luhxetravelbag.co
 luiosmardc.ink
 lumennix.xyz
 luminous-encounter.biz
@@ -2287,6 +2290,7 @@ policycenter-auth-check.vercel.app
 polufredsoa.2mydns.net
 polyfill-js.cn
 polyfill.io
+pondmart.shop
 pool-whatsapp.com
 popcornpump.xyz
 pornonenight.com
@@ -2997,6 +3001,7 @@ urlca.com
 urlcod.com
 urtyert.com
 us-changelly.com.co
+us13webzoom.us
 usadeepseek.com
 usblogview.com
 useapi-whatsapp.com
@@ -3142,6 +3147,7 @@ websys-whatsapp.com
 webtelegram.eu.org
 webtrace-whatsapp.com
 webuzz.me
+webzoom.us
 weclo-offer.online
 weibonews.com
 welatera.com
@@ -3169,6 +3175,7 @@ winutil.app
 wishhoree1890.com
 withsecurify.com
 wkdk.jp
+wlygrowth.com
 wmw.matchin.jp
 wooqi.win
 world.ex-advantage.jp
